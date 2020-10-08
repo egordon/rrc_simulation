@@ -1,3 +1,21 @@
+Ethan's Fork
+===============================
+See `scripts/evaluate_policy.py` for my solution to Simulation Phase 1.
+
+See Phase 1 Proposal in `Proposal.pdf`.
+
+**Results:**
+```
+Level 1 mean reward:	-264.422,	std: 99.710
+Level 2 mean reward:	-479.304,	std: 55.748
+Level 3 mean reward:	-528.032,	std: 128.479
+Level 4 mean reward:	-1495.131,	std: 409.153
+-------------------------------------------------------
+Total Weighted Reward: -8787.647
+```
+
+Below is the original README for this repository:
+
 Real Robot Challenge Simulation
 ===============================
 
